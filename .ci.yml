@@ -1,3 +1,6 @@
+---
+clone:
+  depth: 1
 kind: pipeline
 name : neXus Lavender
 version: rev1.5_template
