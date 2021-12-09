@@ -66,7 +66,7 @@ function compile() {
 # Zipping
 function zipping() {
     cd AnyKernel || exit 1
-    zip -r9 Nexus-v0.1-4.19-${TANGGAL}.zip *
+    zip -r9 aRise-x1.0-lavender-4.19-${TANGGAL}.zip *
     cd ..
 }
 sticker
